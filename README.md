@@ -13,7 +13,7 @@ Sami Ahmad</a></h1>
 
 - 🌱 I’m currently Working on Web Development(Spring boot - JAVA)
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing as well.
 
 - 🌱 I’m currently learning many new technologies
 
