@@ -17,7 +17,7 @@ Sami Ahmad</a></h1>
 
 - 🌱 I’m currently learning many new technologies
 
-- 💬 Ask me about ***DSA & Coding***
+- 💬 Ask me about **DSA & Coding**
 
 - 📫 How to reach me **msamiahmed@gmail.com**
 
