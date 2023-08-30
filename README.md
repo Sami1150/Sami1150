@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank"> 
-Sami Ahmad</a></h1>
+Sami Ahmad</a></h1> 
 <h3 align="center">A passionate Mobile App developer from Lahore Pakistan 『PK</h3>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
