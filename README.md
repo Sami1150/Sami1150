@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="#" target="blank"> 
+<h1 align="center">Hi 👋, I'm <a href="#" target="blank">
 Sami Ahmad</a></h1>
 <h3 align="center">A passionate Mobile App developer from Lahore Pakistan 『PK</h3>   
 
