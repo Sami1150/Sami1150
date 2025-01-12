@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank"> 
 Sami Ahmad</a></h1> 
-<h3 align="center">A passionate Mobile App developer from Lahore Pakistan 『PK</h3>   
+<h3 align="center">A passionate Fintech - Web developer from Pakistan 『PK</h3>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -8,7 +8,7 @@ Sami Ahmad</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.redmath.com/" target="blank">REDMATH (PRIVATE) LIMITED
+- 🔭 I’m currently working in <a href="https://www.remelda.com/" target="blank">Remelda Technologies
 </a>
 
 - 🌱 I’m currently Working on Web Development(Spring boot - JAVA)
@@ -19,7 +19,7 @@ Sami Ahmad</a></h1>
 
 - 💬 Ask me about **DSA & Coding**
 
-- 📫 How to reach me **msamiahmed@gmail.com**
+- 📫 How to reach me **msamiahmed572@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
